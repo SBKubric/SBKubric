@@ -18,7 +18,7 @@
 
 ### [Movix](https://github.com/stranded-in-python/movix)
 
-[Movix](https://stranded-in-python.github.io) is a small pet-project to build an online streaming platform.
+[Movix](https://stranded-in-python.github.io) is a small pet-project, an attempt to build an online streaming platform.
 
 
 ## 🤝 Connect with me
