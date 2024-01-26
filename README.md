@@ -6,7 +6,7 @@
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - ✉️ You can shoot me an email at [sbkubric@gmail.com](mailto:sbkubric@gmail.com).
 
-#### My CV: [Stanislav_Bogatskiy.pdf](https://raw.githubusercontent.com/sbkubric/sbkubric/master/cv.pdf)
+#### My CV: [Stanislav_Bogatskiy.pdf](https://raw.githubusercontent.com/sbkubric/sbkubric/master/CV_Bogatskiy_Python_EN.pdf)
 
 ## 🛠 My fancy badge area
 
