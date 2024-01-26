@@ -4,7 +4,7 @@
 - 🐍 I'm an engineer at [ARS Smart Robotics](https://arobosys.ru/).
 - 🤖 Most of the time I'm writing on Python. Sometimes TypeScript.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
-- ✉️ You can shoot me an email at [sbkubric@gmail.com](mailto:sbkubric@gmail.com).
+- ✉️ You can shoot me an email at [sbkubric@gmail.com](mailto:sbkubric@gmail.com) or telegram me at [@sbkubric](https://t.me/sbkubric).
 
 #### My CV: [Stanislav_Bogatskiy.pdf](https://raw.githubusercontent.com/sbkubric/sbkubric/master/CV_Bogatskiy_Python_EN.pdf)
 
