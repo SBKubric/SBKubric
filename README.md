@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Stas
 
 -  I live in Moscow, Russia.
-- 🐍 I'm an engineer at [Geekfactor](https://geekfactor.io).
+- 🐍 I'm an engineer at [ARS Smart Robotics](https://arobosys.ru/).
 - 🤖 Most of the time I'm writing on Python. Sometimes TypeScript.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - ✉️ You can shoot me an email at [sbkubric@gmail.com](mailto:sbkubric@gmail.com).
@@ -15,6 +15,10 @@
 
 
 ## 🐶 My pet-projects
+
+### [ars-pathfinder](https://github.com/sbkubric/ars-pathfinder)
+
+[Pathfinder](https://github.com/sbkubric/ars-pathfinder) was developed as part of employing process and is an MVP for a robot puppeteer.
 
 ### [Movix](https://github.com/stranded-in-python/movix)
 
