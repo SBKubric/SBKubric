@@ -23,4 +23,4 @@
 
 ## 🤝 Connect with me
 
-[![sbkubric@gmail.com](https://img.shields.io/badge/sbkubric@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:sbkubric@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbkubric/) [![twitter](https://img.shields.io/badge/sbkubric%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sbkubric) 
+[![sbkubric@gmail.com](https://img.shields.io/badge/sbkubric@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:sbkubric@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbkubric/) [![twitter](https://img.shields.io/badge/sbkubric%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sbkubric) [![twitter](https://img.shields.io/badge/sbkubric%20-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sbkubric)
