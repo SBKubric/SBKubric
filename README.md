@@ -18,7 +18,7 @@
 
 ### [ars-pathfinder](https://github.com/sbkubric/ars-pathfinder)
 
-[Pathfinder](https://github.com/sbkubric/ars-pathfinder) was developed as part of employing process and is an MVP for a robot puppeteer.
+[Pathfinder](https://github.com/sbkubric/ars-pathfinder) is an MVP for a robot puppeteer.
 
 ### [Movix](https://github.com/stranded-in-python/movix)
 
